@@ -7,7 +7,10 @@ This project simulates the Earth's orbit around the Sun and allows one to play w
 - xmgrace
 
 ## How to run
-- Download or clone repository
-- cd ./ComputationalPhysicsE6
-- ./make
+Download or clone repository
+`git clone https://github.com/Retiefasaurus/ComputationalPhysicsE6.git`
+cd into directory
+`cd ./ComputationalPhysicsE6`
+run make file
+`./make`
 
